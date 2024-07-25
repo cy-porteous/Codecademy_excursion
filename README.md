@@ -1,1 +1,1 @@
-# codeacademy_excursion
+# codecademy_excursion
